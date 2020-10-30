@@ -1,0 +1,41 @@
+@media (max-width: 768px) {
+
+    header {
+        justify-content: space-between;
+    }
+
+    main {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    footer {
+        width: 100%;
+    }
+
+    h2 {
+        text-align: center;
+    }
+
+    /* SHOWN FOR MOBILE*/
+    .menu-icon, .search-icon {
+        display: flex;
+        margin: 0 1rem;
+    }
+    .maps-small {
+        display: flex;
+        padding-bottom: 1rem;
+    }
+    /* HIDDEN FOR MOBILE */
+    header > nav {
+        display: none;
+    }
+    header > .searchbar {
+        display: none;
+    }
+    .maps-big {
+        display: none;
+    }
+
+
+}
