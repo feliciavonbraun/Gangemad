@@ -1,0 +1,30 @@
+Inlämning 2 - Gångemad
+
+
+Mikaela Andersson och Felicia von Braun Wallin
+Vi valde att modernisera Gångemad gårds hemsida. http://www.gangemad.se/
+
+Förbättringar: Originalsidan har vägbesrivingar om hur en tar sig till gården från fyra städer som kan vara
+svåra att förstå då vissa beskrivningar innehåller ex "strax efter en bro och xx kyrka". 
+Vi valde att bädda in google-maps för att modernisera samt hjälpa användarna att hitta gården lättare,
+oavsett varifrån besökaren kommer ifrån. 
+
+I headern valde vi att minimera antalet flikar då de var lite otydliga och innehöll samma saker, så som
+"om vår verksamhet" och "om oss" och för att öka sökoptimeringen. Vi valde också en enligt oss mer
+tilltalnde design. 
+
+I footern har vi lagt till enkelt text med deras vision samt länk till deras facebooksida. Vi flyttade upp  
+sökbaren till headern samt snyggade till texten som var en mörkare otydlig text från början. 
+
+Eftersom orginalsidan inte hade någon mobilanpassad hemsida över huvud taget så skapade vi en åt dem, 
+och även en för ipad så hela sidan blev responsiv. Därav har vi inte heller skrämdumpar för ipad då de 
+ser lika dant ut på dator ipad och mobil. 
+
+Avgränsningar: Vi ville få in en slideshow på startpage men lyckades inte lösa det utan
+Javascript så därför ville vi ha en fin video över gården istället, det hade tyvärr inte Gångemad och 
+därför blev det en tillfällig video. 
+
+Sidan i sig var ganska informations-fattig och därför kände vi att vidare avgränsningar inte behövdes. 
+Då orginalsidan är ganska informations-fattig fick vi skapa inehåll istället för att skala. 
+
+
